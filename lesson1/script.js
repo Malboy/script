@@ -24,3 +24,8 @@ var tempCelc = 23;
 const tempFar = (9 / 5) * tempCelc + 32;
 console.log(`Температура в Цельсиях: ${tempCelc};
 Температура в Фаренгейтах: ${tempFar};`);
+
+
+const name = "Anton";
+var admin = name;
+console.log(`имя админа: ${admin}`);
